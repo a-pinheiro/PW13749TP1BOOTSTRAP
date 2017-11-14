@@ -1,0 +1,57 @@
+.white{
+  background-color: white;
+}
+.title{
+  background: white;
+  font-size: 30px;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: Arial;
+}
+
+
+article p.p1{
+  text-align: justify;
+  font-size: 15px;
+}
+
+article img{
+  width: 90%;
+  height: 400px;
+}
+
+
+@media (max-width: 1024px){
+  .left{
+    height: auto;
+    width: 100%;
+  }
+
+  .right{
+    width: 100%;
+  }
+
+  article img{
+    width: 80%;
+    height: 200px;
+    padding-left: 24px;
+}
+
+@media (max-width: 500px){
+  .left{
+    height: auto;
+    width: 100%;
+  }
+
+  .right{
+    width: 100%;
+  }
+
+  article img{
+    width: 80%;
+    height: 200px;
+    padding-left: 24px;
+}
+}

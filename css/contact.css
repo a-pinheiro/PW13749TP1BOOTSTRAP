@@ -1,0 +1,43 @@
+.white{
+  background-color: white;
+}
+
+h1{
+  background: white;
+  font-size: 30px;
+  color: black;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  font-size: Arial;
+}
+
+@media (max-width: 1024px){
+  .left{
+    width: 100%;
+  }
+
+  .right{
+    width: 100%;
+  }
+
+  form{
+    padding-left: 30px;
+  }
+
+}
+
+@media (max-width: 500px){
+  .left{
+    width: 100%;
+  }
+
+  .right{
+    width: 100%;
+  }
+
+  form{
+    padding-left: 30px;
+  }
+
+}

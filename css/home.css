@@ -1,0 +1,25 @@
+.title{
+  font-size: 100px;
+  font-weight: bold;
+  color: white;
+  padding-top: 147px;
+}
+
+.text{
+  font-size: 30px;
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+.button{
+  font-size: 30px;
+  color: white;
+  display: inline;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right:30px ;
+  background-color: #A5DF00;
+  border-radius: 200px;
+  text-decoration:none;
+}
